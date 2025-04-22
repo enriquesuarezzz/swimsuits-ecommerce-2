@@ -1,5 +1,5 @@
-import Navigation from "../components/Navigation";
-import PortfolioGrid from "../components/PortfolioGrid";
+import Navigation from "@/components/Molecules/Navigation";
+import PortfolioGrid from "@/components/Molecules/PortfolioGrid";
 
 const Index = () => {
   return (
